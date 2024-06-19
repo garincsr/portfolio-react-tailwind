@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-tailwind/static/css/main.71cdbe15.css",
+    "main.js": "/portfolio-react-tailwind/static/js/main.ad173214.js",
+    "static/media/garin-square.png": "/portfolio-react-tailwind/static/media/garin-square.67e86de2d252385262d4.png",
+    "static/media/dell-g15-setup-cropped.png": "/portfolio-react-tailwind/static/media/dell-g15-setup-cropped.a336725f6281ea3e40ca.png",
+    "static/media/vscode-thumbnail.jpeg": "/portfolio-react-tailwind/static/media/vscode-thumbnail.d0b84e37b52976a6976a.jpeg",
+    "static/media/logo-g-cropped.png": "/portfolio-react-tailwind/static/media/logo-g-cropped.5ae711111113708dd294.png",
+    "static/media/instagram.png": "/portfolio-react-tailwind/static/media/instagram.28944b9a16197e849f88.png",
+    "static/media/github.png": "/portfolio-react-tailwind/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/linkedin.png": "/portfolio-react-tailwind/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/arrowUp.png": "/portfolio-react-tailwind/static/media/arrowUp.4a21d7e625e7c322c484.png",
+    "static/media/facebook.png": "/portfolio-react-tailwind/static/media/facebook.795fce8e464693d7346d.png",
+    "index.html": "/portfolio-react-tailwind/index.html",
+    "main.71cdbe15.css.map": "/portfolio-react-tailwind/static/css/main.71cdbe15.css.map",
+    "main.ad173214.js.map": "/portfolio-react-tailwind/static/js/main.ad173214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71cdbe15.css",
+    "static/js/main.ad173214.js"
+  ]
+}
