@@ -136,10 +136,11 @@ h6 {
 /* Contact */
 .contact-page {
   @apply flex flex-col xl:flex xl:flex-row xl:gap-x-7;
-  .contact-text-zone {
-    /* @apply absolute left-[7%] mt-[2%] w-[35%] align-middle table-cell max-h-[90%]; */
-    @apply container mx-auto align-middle table-cell mt-[2%] xl:ml-[6%] xl:w-[45%] xl:max-h-[90%];
-  }
+}
+
+.contact-text-zone {
+  /* @apply absolute left-[7%] mt-[2%] w-[35%] align-middle table-cell max-h-[90%]; */
+  @apply container mx-auto align-middle table-cell mt-[2%] xl:ml-[6%] xl:w-[45%] xl:max-h-[90%];
 }
 
 .contact-form {
