@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-tailwind/static/css/main.71cdbe15.css",
-    "main.js": "/portfolio-react-tailwind/static/js/main.ad173214.js",
+    "main.css": "/portfolio-react-tailwind/static/css/main.1efa534d.css",
+    "main.js": "/portfolio-react-tailwind/static/js/main.7d6c9594.js",
     "static/media/garin-square.png": "/portfolio-react-tailwind/static/media/garin-square.67e86de2d252385262d4.png",
     "static/media/dell-g15-setup-cropped.png": "/portfolio-react-tailwind/static/media/dell-g15-setup-cropped.a336725f6281ea3e40ca.png",
     "static/media/vscode-thumbnail.jpeg": "/portfolio-react-tailwind/static/media/vscode-thumbnail.d0b84e37b52976a6976a.jpeg",
@@ -12,11 +12,11 @@
     "static/media/arrowUp.png": "/portfolio-react-tailwind/static/media/arrowUp.4a21d7e625e7c322c484.png",
     "static/media/facebook.png": "/portfolio-react-tailwind/static/media/facebook.795fce8e464693d7346d.png",
     "index.html": "/portfolio-react-tailwind/index.html",
-    "main.71cdbe15.css.map": "/portfolio-react-tailwind/static/css/main.71cdbe15.css.map",
-    "main.ad173214.js.map": "/portfolio-react-tailwind/static/js/main.ad173214.js.map"
+    "main.1efa534d.css.map": "/portfolio-react-tailwind/static/css/main.1efa534d.css.map",
+    "main.7d6c9594.js.map": "/portfolio-react-tailwind/static/js/main.7d6c9594.js.map"
   },
   "entrypoints": [
-    "static/css/main.71cdbe15.css",
-    "static/js/main.ad173214.js"
+    "static/css/main.1efa534d.css",
+    "static/js/main.7d6c9594.js"
   ]
 }
