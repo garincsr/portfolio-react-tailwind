@@ -131,7 +131,7 @@ const ContactMe = () => {
                           required
                         />
                       </li>
-                      <li>
+                      <li className="normal">
                         <input
                           className="message-form"
                           type="text"
@@ -141,7 +141,7 @@ const ContactMe = () => {
                           required
                         />
                       </li>
-                      <li>
+                      <li className="normal">
                         <textarea
                           value={message}
                           placeholder="Message"
