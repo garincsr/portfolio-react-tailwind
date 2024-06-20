@@ -139,7 +139,6 @@ h6 {
 }
 
 .contact-text-zone {
-  /* @apply absolute left-[7%] mt-[2%] w-[35%] align-middle table-cell max-h-[90%]; */
   @apply container mx-auto align-middle table-cell mt-[2%] xl:ml-[6%] xl:w-[45%] xl:max-h-[90%];
 }
 
@@ -149,12 +148,13 @@ h6 {
     @apply p-0 m-0;
     li {
       @apply p-0 m-0 list-none mb-[10px] overflow-hidden block relative animate-[fadeInUp_2s] clear-both;
-    }
-    li.half {
-      @apply w-[49%] ml-[2%] float-left clear-none first:ml-0;
-    }
-    li.send {
-      @apply mb-2;
+
+      &.half {
+        @apply w-[49%] ml-[2%] float-left clear-none first:ml-0;
+      }
+      &.send {
+        @apply mb-2;
+      }
     }
   }
 }
