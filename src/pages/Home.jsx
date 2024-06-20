@@ -160,15 +160,15 @@ const Home = () => {
                 </span>
 
                 {/* Image */}
-                <div className="relative h-full top-2 -right-16">
-                  <div className="absolute left-2 -right-2 -bottom-0 hero__img hidden animate-[backInRight_1s] md:hidden lg:hidden xl:flex xl:max-w-[814px]">
+                <div className="relative h-full top-0 -right-16">
+                  <div className="absolute left-2 -right-2 -bottom-0 hero__img hidden animate-[backInRight_1s] md:hidden lg:hidden xl:flex xl:max-w-[914px]">
                     <img src={Me} alt="" />
                   </div>
                   <span className="hidden top-5 -right-10 xl:flex">
                     <svg
                       className="fill-accent"
-                      width={600}
-                      height={600}
+                      width={650}
+                      height={650}
                       viewBox="0 0 200 200"
                       xmlns="http://www.w3.org/2000/svg"
                     >
