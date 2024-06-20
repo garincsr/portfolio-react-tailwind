@@ -110,7 +110,7 @@ const ContactMe = () => {
                 </span>
                 <div className="contact-form">
                   <form ref={form} onSubmit={handleSubmit}>
-                    <ul className="p-0 m-0">
+                    <ul className="contact-ul p-0 m-0">
                       <li className="half">
                         <input
                           className="message-form"
