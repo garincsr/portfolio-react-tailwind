@@ -131,7 +131,7 @@ const About = () => {
                 &lt;/div&gt;
               </span>
 
-              <div className="relative mx-auto xl:top-[5rem] xl:w-[110rem] xl:-right-10 animate-[backInRight_1s]">
+              <div className="absolute opacity-15 mx-auto top-[25rem] md:w-[45rem] md:top-[15rem] md:right-10 xl:relative xl:opacity-100 xl:top-[5rem] xl:w-[110rem] xl:-right-10 animate-[backInRight_1s]">
                 <Lottie animationData={Work} />
               </div>
             </div>

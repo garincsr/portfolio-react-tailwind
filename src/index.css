@@ -207,7 +207,7 @@ textarea {
 }
 
 .stage-cube-cont {
-  @apply overflow-hidden relative p-28;
+  @apply absolute opacity-10 overflow-hidden md:opacity-10 md:absolute lg:opacity-100 lg:relative lg:right-[1rem] xl:opacity-100 xl:relative p-28;
 }
 
 .cubespinner {

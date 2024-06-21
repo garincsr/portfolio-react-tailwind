@@ -128,7 +128,7 @@ const ScoreBoard = () => {
   });
 
   return (
-    <div className="flex items-center justify-center mb-10">
+    <div className="flex mt-5 items-center justify-center mb-10">
       <section
         ref={ref}
         className="w-full p-9 rounded-lg shadow-cube1 bg-white dark:bg-primary"
