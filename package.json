@@ -1,7 +1,7 @@
 {
   "name": "portfolio-tailwind",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
