@@ -18,6 +18,11 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 const About = () => {
+  const certificateFile =
+    "https://drive.google.com/uc?export=download&id=1lUnPHpN84BBxTq2ckoxMRY8i1iRUD7V4";
+  const curriculumVitaeFile =
+    "https://drive.google.com/uc?export=download&id=1b0y5mUySlgWHLEipUHd4fJaRr_qh4F_A";
+
   const [loading, setLoading] = useState(true);
   const [letterClass, setLetterClass] = useState("text-animate");
 
@@ -113,9 +118,13 @@ const About = () => {
                   interest in Web Development, Front-end Development, IT
                   Support, and Quality Assurance.
                 </p>
-                <Link to="https://drive.google.com/drive/folders/1mForWkL6z90AJ1aWrpPhrgwdSoD0hTAo?usp=sharing">
+                <a
+                  href={curriculumVitaeFile}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <Button value="⬇️ Download My CV" />
-                </Link>
+                </a>
 
                 <span className="font-tags mt-3 hidden text-accent m-0 -ml-[0.2rem] text-[0.8rem] dark:text-accent-quaternary xl:text-[1rem] xl:block">
                   &lt;/p&gt;
@@ -327,6 +336,13 @@ const About = () => {
                         <h5 className="font-medium text-[1.2rem] dark:text-slate-200">
                           Full Stack Web Development
                         </h5>
+                        <a
+                          href={certificateFile}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <Button value="Download Certificate" />
+                        </a>
                       </span>
                     </span>
                   </span>

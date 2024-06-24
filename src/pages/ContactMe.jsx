@@ -110,7 +110,7 @@ const ContactMe = () => {
                 </span>
                 <div className="contact-form">
                   <form ref={form} onSubmit={handleSubmit}>
-                    <ul className="contact-ul p-0 m-0">
+                    <ul className="contact-ul">
                       <li className="half">
                         <input
                           className="message-form"
@@ -150,7 +150,7 @@ const ContactMe = () => {
                         ></textarea>
                       </li>
                       <li className="send">
-                        <Button value="Send" />
+                        <Button className="mb-2" value="Send" />
                       </li>
                     </ul>
                   </form>
