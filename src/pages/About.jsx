@@ -21,8 +21,7 @@ const About = () => {
   const certificateFile =
     "https://drive.google.com/uc?export=download&id=1lUnPHpN84BBxTq2ckoxMRY8i1iRUD7V4";
   const curriculumVitaeFile =
-    "https://drive.google.com/uc?export=download&id=1b0y5mUySlgWHLEipUHd4fJaRr_qh4F_A";
-
+    "https://drive.google.com/uc?export=download&id=1C5_aF8AJepX16RRB1r1rcpRFABR64WgY";
   const [loading, setLoading] = useState(true);
   const [letterClass, setLetterClass] = useState("text-animate");
 
