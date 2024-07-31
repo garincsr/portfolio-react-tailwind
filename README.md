@@ -76,10 +76,10 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at your-email@example.com.
+If you have any questions or suggestions, feel free to contact me at garincaesar69@gmail.com.
 
 Connect with me:
 
-- [https://www.linkedin.com/in/garincaesar/](LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/garincaesar/)
 
 Thank you for visiting my portfolio!
