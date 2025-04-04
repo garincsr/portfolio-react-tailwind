@@ -228,17 +228,19 @@ const About = () => {
               <div className="relative mx-auto mt-10 xl:-top-[3rem]">
                 <span className="flex flex-col w-[100%] gap-y-5 mb-10 xl:flex-row xl:justify-center xl:w-[60rem] dark:text-slate-200">
                   <span className="para border-2 p-10 rounded-lg shadow-cube1 border-accent xl:w-[50%] dark:border-darkLightBlue">
-                    <p className="underline">Frontend Web Dev</p>
+                    <p className="underline">Frontend</p>
                     <span className="flex flex-wrap gap-x-2">
                       <span className="li-check"> HTML/CSS</span>
-                      <span className="li-check"> JavaScript</span>
                       <span className="li-check"> React JS</span>
+                      <span className="li-check"> React Native</span>
                       <span className="li-check"> Bootstrap</span>
                       <span className="li-check"> Tailwind CSS</span>
+                      <span className="li-check"> Figma</span>
                     </span>
-                    <p className="underline mt-4 ">Fullstack Web Dev</p>
+                    <p className="underline mt-4 ">Backend</p>
                     <span className="flex flex-wrap gap-x-2">
-                      <span className="li-check"> PHP</span>
+                      <span className="li-check"> Java Springboot</span>
+                      <span className="li-check"> Golang</span>
                       <span className="li-check"> Express JS</span>
                     </span>
                     <p className="underline mt-4 ">Else</p>
@@ -246,6 +248,7 @@ const About = () => {
                       <span className="li-check"> SQL Query</span>
                       <span className="li-check"> MySQL</span>
                       <span className="li-check"> PostgreSQL</span>
+                      <span className="li-check"> Docker</span>
                       <span className="li-check"> AGILE Methodology</span>
                       <span className="li-check"> SCRUM Methodology</span>
                     </span>

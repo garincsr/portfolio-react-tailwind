@@ -206,7 +206,7 @@ const Home = () => {
 
             {/* hardware */}
 
-            <span className="flex flex-col mx-auto mb-0 gap-y-10 xl:gap-y-7 xl:mb-10">
+            <span className="container flex flex-col mx-auto mb-0 gap-y-10 xl:gap-y-7 xl:mb-10">
               <span className="flex justify-center md:flex md:justify-center lg:flex lg:justify-center xl:hidden">
                 <Lottie
                   className="w-[20rem] -top-[2rem]"

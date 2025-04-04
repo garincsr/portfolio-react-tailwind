@@ -31,7 +31,7 @@ const scoresData = [
   },
   {
     title: "Tailwind CSS Skills",
-    score: 9.0,
+    score: 9.9,
     color: "bg-blue-100",
     textColor: "text-blue-500",
     barColor: "bg-accent",
@@ -67,10 +67,10 @@ const scoresData = [
   },
   {
     title: "Agile Methodology",
-    score: 7.3,
+    score: 9.9,
     color: "bg-blue-100",
     textColor: "text-blue-500",
-    barColor: "bg-amber-500",
+    barColor: "bg-accent",
     iconColor: "#000",
     icon: RiFunctions,
   },
@@ -128,7 +128,7 @@ const ScoreBoard = () => {
   });
 
   return (
-    <div className="flex mt-5 items-center justify-center mb-10">
+    <div className="flex mt-10 items-center justify-center mb-10">
       <section
         ref={ref}
         className="w-full p-9 rounded-lg shadow-cube1 bg-white dark:bg-primary"

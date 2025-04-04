@@ -144,7 +144,7 @@ const Navbar = () => {
               </ul>
 
               {/* Form */}
-              <form className="relative flex gap-x-[10px]">
+              {/* <form className="relative flex gap-x-[10px]">
                 <label htmlFor="mnav-search-input">
                   <RiSearchLine className="text-2-xl text-accent " />
                 </label>
@@ -155,7 +155,7 @@ const Navbar = () => {
                   className="outline-none w-[160px] border-b-2 focus:border-b-2 
                 focus:border-accent placeholder:italic dark:bg-primary"
                 />
-              </form>
+              </form> */}
             </div>
           </nav>
 
@@ -205,7 +205,7 @@ const Navbar = () => {
             </ul>
 
             {/* Form */}
-            <form className="relative flex gap-x-[10px]">
+            {/* <form className="relative flex gap-x-[10px]">
               <label
                 htmlFor="search-input"
                 className="flex justify-center text-center group"
@@ -219,7 +219,7 @@ const Navbar = () => {
                 className="outline-none w-[100px] focus:w-[180px]
               focus:border-b-2 focus:border-accent placeholder:italic placeholder:text-base transition-all duration-150 dark:bg-primary"
               />
-            </form>
+            </form> */}
           </nav>
         </div>
       </div>

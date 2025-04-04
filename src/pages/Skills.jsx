@@ -42,7 +42,7 @@ const Skills = () => {
         <>
           <Navbar />
           <section className="hero bg-slate-200 h-[100%] xl:pt-10 overflow-hidden dark:bg-darkDarkBlue">
-            <div className="skills-page flex flex-col mx-auto md:flex-row xl:flex-row justify-center items-center h-full">
+            <div className="skills-page flex flex-col px-0 mx-auto md:flex-row xl:flex-row xl:px-[15rem] justify-around items-center h-full">
               <div className="text-zone my-10">
                 <span className="font-tags text-accent m-0 -ml-[0.8rem] text-[0.8rem] dark:text-accent-quaternary xl:text-[1rem] xl:block">
                   &lt;div className="skills"&gt;
@@ -116,6 +116,7 @@ const Skills = () => {
               </div>
             </div>
           </section>
+
           <section className="hero bg-slate-200 xl:pt-5 overflow-hidden dark:bg-darkDarkBlue">
             <div className="container mx-auto">
               <Progress />
